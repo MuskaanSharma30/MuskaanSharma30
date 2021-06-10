@@ -1,7 +1,7 @@
 
 
 <!--
-<img src="https://komarev.com/ghpvc/?username=MuskaanSharma30&label=Profile%20views&color=0e75b6&style=flat" alt="yukta30" /> 
+<img src="https://komarev.com/ghpvc/?username=MuskaanSharma30&label=Profile%20views&color=0e75b6&style=flat"/> 
 **MuskaanSharma30/MuskaanSharma30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
