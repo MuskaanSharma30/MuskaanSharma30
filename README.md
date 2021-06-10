@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I'm not great at advice. But can I interest you in a sarcastic comment?**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/muskaan30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muskaan sharma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muskan.sharma.712714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muskaan sharma" height="30" width="40" /></a>
@@ -46,20 +46,20 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<img align="center" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-key.png"/>
-<img align="center" alt="C++" width="40px" src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
-<img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" />
-<img align="center" alt="Firebase" width="40px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="center" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="center" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="center" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/64/github.png" />
-<img align="center" alt="Adobe XD" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>
-<img align="center" alt="jQuery" width="40px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
-<img align="center" alt="Stackoverflow" width="40px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-key.png"/>
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" />
+<img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/64/github.png" />
+<img align="left" alt="Adobe XD" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>
+<img align="left" alt="jQuery" width="40px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+<img align="left" alt="Stackoverflow" width="40px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 <br>
 
 --------------------------------------------------------------------
