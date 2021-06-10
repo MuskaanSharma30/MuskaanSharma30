@@ -71,12 +71,12 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="muskaan30" />  
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" />  
 
 --------------------------------------------------------------------
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=radical&hide_border=true&hide=prs,issues)
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=nightowl&hide_border=true&hide=prs,issues)
 
 
 
