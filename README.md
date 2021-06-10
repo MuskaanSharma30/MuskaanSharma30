@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I'm not great at advice. But can I interest you in a sarcastic comment?**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="centre">
 <a href="https://www.linkedin.com/in/muskaan30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muskaan sharma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muskan.sharma.712714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muskaan sharma" height="30" width="40" /></a>
 <a href="https://www.instagram.com/muskaan_sharma3099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muskaan sharma" height="30" width="40" /></a>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact" alt="muskaan30" />  
+<img align ="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact" alt="muskaan30" />  
 
 --------------------------------------------------------------------
 
