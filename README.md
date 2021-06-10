@@ -1,6 +1,7 @@
 
 
 <!--
+<img src="https://komarev.com/ghpvc/?username=MuskaanSharma30&label=Profile%20views&color=0e75b6&style=flat" alt="yukta30" /> 
 **MuskaanSharma30/MuskaanSharma30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">A Front end developer hailing from Kanpur UP.</h3>
 
 ![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-<img src="https://komarev.com/ghpvc/?username=MuskaanSharma30&label=Profile%20views&color=0e75b6&style=flat" alt="yukta30" /> 
+
+![Visitor Count](https://profile-counter.glitch.me/stutisehgal/count.svg)
 
 - 🔭 I’m currently working on **on projects related to Frontend Web Development using Reactjs**
 
