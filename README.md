@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Muskaan Sharma</h1>
+<h1 align="center" color="#bd0753">Hi 👋, I'm Muskaan Sharma</h1>
 <h3 align="center">A Front end developer hailing from Kanpur UP.</h3>
 
 ![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
