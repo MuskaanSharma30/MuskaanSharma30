@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=dark)](https://git.io/streak-stats)
 
 --------------------------------------------------------------------
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukta30&show_icons=true&locale=en&layout=compact" alt="yukta30" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact" alt="yukta30" />  
 
 
 -------------------------------------------------------------------
-![Yukta's github stats](https://github-readme-stats.vercel.app/api?username=Yukta30&show_icons=true&theme=merko)
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=merko)
 
 
 
 --------------------------------------------
-[![Yukta's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yukta30&theme=react-dark)](https://github.com/Yukta30/github-readme-activity-graph)
+[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=react-dark)](https://github.com/Yukta30/github-readme-activity-graph)
