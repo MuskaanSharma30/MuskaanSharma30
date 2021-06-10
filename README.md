@@ -83,10 +83,5 @@ Here are some ideas to get you started:
 
 
 
--------------------------------------------------------------------
-
-[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=radical&hide_border=true)](https://github.com/MuskaanSharma30/github-readme-activity-graph)
-
-
 --------------------------------------------
 
