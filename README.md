@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/STATUS-WORKING-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
-<p>
+
 ![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg) is my Visitor's Count. 
-</p>
+
 
 
 - 🔭 I’m currently working on **on projects related to Frontend Web Development using Reactjs**
