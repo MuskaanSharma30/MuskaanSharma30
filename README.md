@@ -64,16 +64,20 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=dark)](https://git.io/streak-stats)
-
---------------------------------------------------------------------
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact" alt="muskaan30" />  
 
+--------------------------------------------------------------------
 
--------------------------------------------------------------------
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=dark)](https://git.io/streak-stats)
 ![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=merko)
 
 
 
---------------------------------------------
+
+-------------------------------------------------------------------
+
 [![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=react-dark)](https://github.com/Yukta30/github-readme-activity-graph)
+
+
+--------------------------------------------
+
