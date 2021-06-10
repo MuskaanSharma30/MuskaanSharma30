@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <img alt="Adobe XD" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>
 <img alt="jQuery" width="40px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 <img alt="Stackoverflow" width="40px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+<img alt="Stackoverflow" width="40px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </p>
 <br>
 
