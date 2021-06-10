@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg) is my Visitor's Count. 
- ...................................................................................................................................... 
+ ........................................................................................................................ 
 ![](https://img.shields.io/badge/STATUS-WORKING-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
 
