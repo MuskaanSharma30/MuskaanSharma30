@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MuskaanSharma30/MuskaanSharma30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 <img align="left" alt="jQuery" width="26px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 <img align="left" alt="Stackoverflow" width="26px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yukta30&theme=dark)](https://git.io/streak-stats)
+--------------------------------------------------------------------
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=dark)](https://git.io/streak-stats)
 
 --------------------------------------------------------------------
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukta30&show_icons=true&locale=en&layout=compact" alt="yukta30" />  
