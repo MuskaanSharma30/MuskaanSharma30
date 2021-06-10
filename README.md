@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuskaanSharma30](https://github.com/MuskaanSharma30)
-
 - 💬 Ask me about **Front end web developement.**
 
 - 📫 Reach out @muskaansharma881@gmail.com OR DM on instagram and Linkedin ♾ 
