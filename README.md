@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Front end web developement.**
 
-- 📫 How to reach me **DM me on my Instagram or LinkedIn handle.**
+- 📫 Reach out @muskaansharma881@gmail.com OR DM on instagram and Linkedin ♾ 
 
 - ⚡ Fun fact **I'm not great at advice. But can I interest you in a sarcastic comment?**
 
