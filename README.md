@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
-<h1 align="center">Hello !</h1> ![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg)
+<h1 align="center">Hello !</h1> 
+
+![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg)
 
 - 🔭 I’m currently working on **on projects related to Frontend Web Development using Reactjs**
 
