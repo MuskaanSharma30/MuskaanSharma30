@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 -------------------------------------------------------------------
 
-[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=react-dark)](https://github.com/Yukta30/github-readme-activity-graph)
+[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=react-dark)](https://github.com/MuskaanSharma30/github-readme-activity-graph)
 
 
 --------------------------------------------
