@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" />
+<img alt="React" width="40px"src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+ <img alt="Figma" width="40px"src="https://img.icons8.com/cute-clipart/64/000000/figma.png"/>
 <img alt="Firebase" width="40px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />
@@ -63,8 +64,7 @@ Here are some ideas to get you started:
 <img alt="Adobe XD" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>
 <img alt="jQuery" width="40px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 <img alt="Stackoverflow" width="40px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-<img alt="Stackoverflow" width="40px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-</p>
+
 <br>
 
 --------------------------------------------------------------------
