@@ -73,19 +73,19 @@ Visitors - ![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/co
 
 --------------------------------------------------------------------
 
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="muskaan30" />  
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="muskaan30" />  
 
 --------------------------------------------------------------------
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=gotham)](https://git.io/streak-stats)
-![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=gotham)
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=gotham&hide_border=true)
 
 
 
 
 -------------------------------------------------------------------
 
-[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=gotham)](https://github.com/MuskaanSharma30/github-readme-activity-graph)
+[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=gotham&hide_border=true)](https://github.com/MuskaanSharma30/github-readme-activity-graph)
 
 
 --------------------------------------------
