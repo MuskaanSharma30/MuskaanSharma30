@@ -77,15 +77,15 @@ Visitors - ![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/co
 
 --------------------------------------------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=dark)](https://git.io/streak-stats)
-![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=gotham)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=chartreuse-dark)](https://git.io/streak-stats)
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=chartreuse-dark)
 
 
 
 
 -------------------------------------------------------------------
 
-[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=react-dark)](https://github.com/MuskaanSharma30/github-readme-activity-graph)
+[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskaanSharma30&theme=chartreuse-dark)](https://github.com/MuskaanSharma30/github-readme-activity-graph)
 
 
 --------------------------------------------
