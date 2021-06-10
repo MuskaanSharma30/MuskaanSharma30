@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 ![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=radical&hide_border=true&hide=prs,issues)
 
 
