@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I'm not great at advice. But can I interest you in a sarcastic comment?**
 
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/muskaan30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muskaan sharma" height="30" width="40" /></a>
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/muskaansharma881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muskaan sharma" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muskaansharma881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muskaansharma881" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align = "center">
 <img alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-key.png"/>
