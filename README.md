@@ -72,13 +72,14 @@ Here are some ideas to get you started:
 <br>
 
 --------------------------------------------------------------------
-
+<h4 align="center">Languages I use frequently:</h4>
 <p align="center"><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" /></p> 
 
 --------------------------------------------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
 ![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=nightowl&hide_border=true&hide=prs,issues)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
 
 
