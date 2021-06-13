@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" />  
+<p align="center"><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" /></p> 
 
 --------------------------------------------------------------------
 
