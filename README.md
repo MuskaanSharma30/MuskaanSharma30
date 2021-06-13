@@ -73,12 +73,14 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 <h4 align="center">Languages I use frequently:</h4>
-<!--<p align="center"><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" /></p> -->
+<!--<p align="center"><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" /></p> 
+
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=dark&hide_border=true&show_icons=true&count_private=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"&hide_border=true&hide=prs,issues)-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&theme=dark&hide_border=true&show_icons=true&count_private=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muskaan" /></p>
 --------------------------------------------------------------------
 
 
-![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=dark&hide_border=true&show_icons=true&count_private=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"&hide_border=true&hide=prs,issues)
+ <img src="https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=dark&line_height=27&count_private=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" style="width: 100%" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
 
