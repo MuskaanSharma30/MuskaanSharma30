@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg) is my Visitor's Count. 
  ........................................................................................................................ 
 ![](https://img.shields.io/badge/STATUS-WORKING-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-[![Linkedin: Yukta Vajpayee](https://img.shields.io/badge/-Yukta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yukta-vajpayee-620a3b19b/)](https://www.linkedin.com/in/yukta-vajpayee-620a3b19b/)
+[![Linkedin: Muskaan Sharma](https://img.shields.io/badge/-Muskaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muskaan30/)](https://www.linkedin.com/in/muskaan-sharma-620a3b19b/)
 
 
 
