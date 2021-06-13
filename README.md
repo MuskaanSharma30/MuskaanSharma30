@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------
 <h4 align="center">Languages I use frequently:</h4>
 <!--<p align="center"><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="muskaan30" /></p> -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&theme=dark&show_icons=true&count_private=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muskaan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanSharma30&theme=dark&hide_border=true&show_icons=true&count_private=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muskaan" /></p>
 --------------------------------------------------------------------
 
 
