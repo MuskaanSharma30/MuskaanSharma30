@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muskaan Sharma <br><h3 align="center" style={{color:"pink"}}>A Front end developer hailing from Kanpur UP.</h3>
 </h1>
 
-![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg) is my Visitor's Count. 
- ........................................................................................................................ 
-![](https://img.shields.io/badge/STATUS-WORKING-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![Visitor Count](https://profile-counter.glitch.me/MuskaanSharma30/count.svg) is my Visitor's Count
+ -------------------
+<br> ![](https://img.shields.io/badge/STATUS-WORKING-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 [![Linkedin: Muskaan Sharma](https://img.shields.io/badge/-Muskaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muskaan30/)](https://www.linkedin.com/in/muskaan30/)
 
 
